@@ -5,10 +5,13 @@
 
 .footer-paper{
   background-color:rgba(61, 159, 216, 0.438);
-  color: #ffffff;
 }
 
 .footer-paper p{
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+.bg-secondary{
+  background-color: rgba(118, 193, 236, 0.438) !important;
 }
